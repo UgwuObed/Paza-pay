@@ -101,7 +101,7 @@ return [
     ],
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'ugwuobedv@gmail.com'),
+        'address' => env('MAIL_FROM_ADDRESS', 'pazapay.reset@gmail.com'),
         'name' => env('MAIL_FROM_NAME', 'Pazapay'),
     ],
 
